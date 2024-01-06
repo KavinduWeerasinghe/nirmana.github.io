@@ -1,2 +1,3 @@
-# nirmana.github.io
-Hey all. This is my research portfolio
+# Education
+
+- Bsc. Biomedical Engineering | University of Moratuwa (_June 2023_)								       		
