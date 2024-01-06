@@ -1,3 +1,8 @@
 # Education
 
-- Bsc. Biomedical Engineering | University of Moratuwa (_June 2023_)								       		
+### University of Moratuwa   _(Dec 2019 - Present)_
+- B.Sc. Engineering (Hons.) in BiomedicalEngineering\
+Courses
+: Signal Processing, Linear Algebra, Electronics,Machine Vision, Electromagnetics, Image Processing,Biosignal processing\
+CGPA: 3.51/4.2
+(Credits covered - 115)
